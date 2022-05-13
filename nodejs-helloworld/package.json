@@ -2,7 +2,8 @@
   "name": "nodejs-helloworld",
   "version": "1.0.0",
   "description": "Hello World!",
-  "main": "npm app.js",
+  "main": "app.js",
+  "start": "node app.js",
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
